@@ -61,6 +61,7 @@ a:hover {
 
 .bottom-container {
   background-color: #fafcc2;
+  padding: 20px;
 }
 
 .cloud {
@@ -75,14 +76,14 @@ a:hover {
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 300px;
+  left: 12.5rem;
+  bottom: 25rem;
 }
 
 .top-cloud {
   position: absolute;
-  top: 50px;
-  right: 300px;
+  top: 3.125rem;
+  right: 15.75rem;
 }
 
 .stock-market {
